@@ -1,0 +1,7 @@
+[2026-04-17T19:35:29Z] === AST ITERATION 1 START | repo=groq/groq-python sha=9793d5e9 ===
+[2026-04-17T19:35:29Z] [iter=1] PHASE START: ast repo=groq/groq-python sha=9793d5e9
+[2026-04-17T19:35:29Z] [iter=1] Building AST aggregate chunks
+[2026-04-17T19:36:34Z] [iter=1] AST chunks built count=1 triples=811102
+[2026-04-17T19:36:34Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/9793d5e9c3993ee7b7b0a9b75a7f324ac7de0323/.complete
+[2026-04-17T19:36:34Z] [iter=1] PHASE END: ast elapsed_s=65 elapsed_min=1.1
+[2026-04-17T19:36:34Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
